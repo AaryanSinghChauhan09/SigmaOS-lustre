@@ -3,7 +3,7 @@ name = "SigmaOS-lustre"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "lustre component"
+description = "Lustre"
 upstream = []
 
 [contract]
